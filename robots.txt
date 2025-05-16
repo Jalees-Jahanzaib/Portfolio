@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://jalees-jahanzaib.github.io/sitemap.xml
+Sitemap: https://jalees-jahanzaib.github.io/Portfolio/sitemap.xml
